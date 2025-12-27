@@ -1,0 +1,42 @@
+{
+  "full_name": "Ru Han Wang",
+  "name": "Dave",
+  "current_role": "Student",
+  "location": "Durham, NC, USA",
+  "email": "wangruhan2001@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ruhan-wang-3b946b175/",
+  "specialties": [
+    "Machine Learning",
+    "Deep Learning",
+    "AI Agents",
+    "LLM Applications",
+    "Data Science",
+    "Public Speaking"
+  ],
+  "interests": [
+      "Technology and AI",
+      "Agentic Applications",
+      "Continuous Learning",
+      "Philosophy",
+      "Esotericism",
+      "Spirituality",
+      "Saxophone",
+      "Wind Symphony",
+      "Hiking",
+      "Traveling"
+    ],
+  "years_experience": 2,
+  "education": [
+    {
+      "degree": "Master of Engineering, Artificial Intelligence",
+      "institution": "Duke University",
+      "year": "2025"
+    },
+    {
+      "degree": "Bachelor of Science, Statistics & Minor in Communications",
+      "institution": "University of California, Davis",
+      "year": "2023"
+    }
+  ]
+}
+
